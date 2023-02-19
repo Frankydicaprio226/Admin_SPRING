@@ -8,6 +8,7 @@ Création de table
 Swagger2 est un projet open source utilisé pour générer les documents de l'API REST pour les services Web RESTful. Il fournit une interface utilisateur pour accéder à nos services Web RESTful via le navigateur Web.
 
 Nous avons ici les captures de l'enregistrement (Sur swagger UI), d'affichage des différents enregistremnents effectués avec la requête ALL (sur postman), la requête login pour la connexion.
+
 L'enregistrement se fait avec la requête save comme montrer ci-dessous:
 
 ![Swagger_Interface](https://user-images.githubusercontent.com/111537634/219949515-d92d9ef0-ec96-47b7-8962-718ae2f56cb2.PNG)
