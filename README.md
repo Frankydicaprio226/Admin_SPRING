@@ -1,7 +1,7 @@
 # Admin_SPRING
-C'est un projet java spring boot sur les fonctionnalités de connexion de l'administrateur d'une base de données
+C'est un projet java spring boot sur les fonctionnalités de connexion  d'une base de données via Postman à travers le localhost de phpmyAdmin 
 
-Création de la base de données Nous avons utilisé Spring boot pour la création de notre base de données. Nous avons choisi "maven" comme projet, "java" comme langage, et "2.7.8" comme version de spring boot. Nous avons également ajoutés les dépendances suivantes :
+Création de la base de données. Nous avons utilisé Spring boot pour la création de notre base de données. Nous avons choisi "maven" comme projet, "java" comme langage, et "2.7.8" comme version de spring boot. Nous avons également ajoutés les dépendances suivantes :
 
 <li>la toile</li>
 <li>APP</li>
@@ -16,7 +16,7 @@ Création de la base de données Nous avons utilisé Spring boot pour la créati
 Création de table
 ![Structure](https://user-images.githubusercontent.com/111537634/219949047-7eaad265-7abf-46fc-bf8e-05e0d2a5fbc5.PNG)
 
-Swagger2 est un projet open source utilisé pour générer les documents de l'API REST pour les services Web RESTful. Il fournit une interface utilisateur pour accéder à nos services Web RESTful via le navigateur Web.
+SwaggerUI est un projet open source utilisé pour générer les documents de l'API REST pour les services Web RESTful. Il fournit une interface utilisateur pour accéder à nos services Web RESTful via le navigateur Web.
 
 Nous avons ici les captures de l'enregistrement (Sur swagger UI), d'affichage des différents enregistremnents effectués avec la requête ALL (sur postman), la requête login pour la connexion.
 
