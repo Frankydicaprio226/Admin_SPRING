@@ -1,6 +1,17 @@
 # Admin_SPRING
 C'est un projet java spring boot sur les fonctionnalités de connexion de l'administrateur d'une base de données
 
+Création de la base de données Nous avons utilisé Spring boot pour la création de notre base de données. Nous avons choisi "maven" comme projet, "java" comme langage, et "2.7.8" comme version de spring boot. Nous avons également ajoutés les dépendances suivantes :
+
+<li>la toile</li>
+<li>APP</li>
+<LiActionneur</li>
+<li>MySQL</li>
+<li>Lombok</li>
+<li>DevTools</li>
+
+![image](https://user-images.githubusercontent.com/111537634/219977182-4c338c0b-ef8b-4dfb-a761-f0e173dae5c1.png)
+
 
 Création de table
 ![Structure](https://user-images.githubusercontent.com/111537634/219949047-7eaad265-7abf-46fc-bf8e-05e0d2a5fbc5.PNG)
